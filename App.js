@@ -12,4 +12,5 @@ export default class LotsOfGreetings extends Component {
     );
   }
 }
+//adding comments
 AppRegistry.registerComponent('AwesomeProject', () => LotsOfGreetings);
